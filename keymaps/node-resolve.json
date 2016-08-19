@@ -1,0 +1,5 @@
+{
+  "atom-atom-text-editor": {
+    "alt-r": "node-resolve:open-module"
+  }
+}

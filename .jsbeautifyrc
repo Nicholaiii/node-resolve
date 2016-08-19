@@ -1,0 +1,7 @@
+{
+    "js": {
+        "comma_first": true,
+        "keep_array_indentation": false,
+        "max_preserve_newlines":2
+    }
+}
